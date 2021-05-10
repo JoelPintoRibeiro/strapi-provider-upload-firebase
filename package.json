@@ -15,23 +15,23 @@
     "isProvider": true
   },
   "author": {
-    "email": "bent.rynning@gmail.com",
-    "name": "bentrynning",
+    "email":"ribeiro.joelle@gmail.com",
+    "name": "jpintoribeiro",
     "url": "http://strapi.io"
   },
   "maintainers": [
     {
-      "name": "bentrynning",
-      "email": "bent.rynning@gmail.com",
+      "name": "jpintoribeiro",
+      "email": "ribeiro.joelle@gmail.com",
       "url": "http://strapi.io"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bentrynning/strapi-provider-upload-firebase.git"
+    "url": "https://github.com/JoelPintoRibeiro/strapi-provider-upload-firebase.git"
   },
   "bugs": {
-    "url": "https://github.com/bentrynning/strapi-provider-upload-firebase/issues"
+    "url": "https://github.com/JoelPintoRibeiro/strapi-provider-upload-firebase/issues"
   },
   "engines": {
     "node": ">=10.0.0",
@@ -42,6 +42,6 @@
     "test": "echo \"no tests yet\""
   },
   "dependencies": {
-    "firebase-admin": "^8.5.0"
+    "firebase-admin": "9.7.0"
   }
 }
