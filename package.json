@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-firebase-forked",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "firebase provider for strapi upload",
   "homepage": "http://strapi.io",
   "keywords": [
@@ -15,7 +15,7 @@
     "isProvider": true
   },
   "author": {
-    "email":"ribeiro.joelle@gmail.com",
+    "email": "ribeiro.joelle@gmail.com",
     "name": "jpintoribeiro",
     "url": "http://strapi.io"
   },
@@ -42,6 +42,7 @@
     "test": "echo \"no tests yet\""
   },
   "dependencies": {
-    "firebase-admin": "9.7.0"
+    "firebase-admin": "9.7.0",
+    "uuid-v4": "^0.1.0"
   }
 }
